@@ -1,3 +1,15 @@
+This project has many lerning content for bigginers in react web development . what you lern in it:
+
+1] react components
+
+2] Using of API
+
+3] external dependencies
+
+4] smooth designing
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
