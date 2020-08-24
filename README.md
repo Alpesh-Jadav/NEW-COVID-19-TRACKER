@@ -8,6 +8,8 @@ This project has many lerning content for bigginers in react web development . w
 
 4] smooth designing
 
+5] mobile friendly design
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
